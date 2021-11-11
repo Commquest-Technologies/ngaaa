@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ngaaa *.css
+recursive-include ngaaa *.csv
+recursive-include ngaaa *.html
+recursive-include ngaaa *.ico
+recursive-include ngaaa *.js
+recursive-include ngaaa *.json
+recursive-include ngaaa *.md
+recursive-include ngaaa *.png
+recursive-include ngaaa *.py
+recursive-include ngaaa *.svg
+recursive-include ngaaa *.txt
+recursive-exclude ngaaa *.pyc
