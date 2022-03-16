@@ -1,0 +1,51 @@
+:root {
+	--border-radius: 2px;
+	--border-radius-sm: 2px;
+	--border-radius-md: 3px;
+	--card-shadow: none;
+} 
+
+* {
+    font-size: 14px !important;
+	font-family: "Poppins", sans-serif;
+}
+
+.navbar-home img {
+    max-height: 100%;
+}
+
+li.dropdown.dropdown.dropdown-help.dropdown-mobile {
+	display: none !important;
+}
+
+.form-links .document-link .document-link-badge .count, .form-links .document-link .report-link-badge .count {
+    font-size: var(--text-sm) !important;
+}
+
+.form-dashboard-section, .form-section.card-section, .frappe-card, .widget {
+    border: 1px solid #d5d7da;
+}
+
+input[type="checkbox"] {
+	border-radius: 0;
+}
+
+.icon-xs {
+    width: 16px;
+    height: 16px;
+}
+
+.page-title .title-area .title-text {
+    font-size: 22px !important;
+	text-transform: uppercase;
+	line-height: 1.7;
+}
+
+.form-dashboard-section .section-head, .form-section .section-head {
+    font-size: 15px !important;
+}
+
+.widget .widget-head .widget-title {
+    font-weight: 600;
+	font-size: 15px !important;
+}
