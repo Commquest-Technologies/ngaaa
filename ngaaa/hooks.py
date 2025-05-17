@@ -15,12 +15,12 @@ app_license = "MIT"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/ngaaa/css/ngaaa.css"
 # app_include_js = "/assets/ngaaa/js/ngaaa.js"
-app_include_css = "/assets/ngaaa/css/ngaaa.css"
+# app_include_css = "/assets/ngaaa/css/ngaaa.css"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/ngaaa/css/ngaaa.css"
 # web_include_js = "/assets/ngaaa/js/ngaaa.js"
-web_include_css = "/assets/ngaaa/css/ngaaa_web.css"
+# web_include_css = "/assets/ngaaa/css/ngaaa_web.css"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "ngaaa/public/scss/website"
