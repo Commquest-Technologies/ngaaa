@@ -180,7 +180,6 @@ fixtures = [
         "dt": "Custom Field",
         "filters": [
             ["dt", "in", [
-                "Item",
                 "Issue",
                 "Delivery Note",
                 "Purchase Order",
