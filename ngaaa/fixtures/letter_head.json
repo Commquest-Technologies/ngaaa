@@ -1,0 +1,50 @@
+[
+ {
+  "content": "<table class=\"header-table\" width=\"100%\">\n    <tbody><tr>\n      <td width=\"220px\">\n        <div class=\"logo\">\n<img src=\"https://erp.ngaaa.co.za/files/ngaa-logo.jpg\">\n        </div>\n      </td>\n      <td width=\"100px\">\n        <div class=\"address-header\">\n      <br>\n      <br>\n      </div>\n    </td>\n    <td width=\"200px\">\n      <div class=\"address-header\">\n        <h4>Ngaatendwe Trading cc</h4>\n        REG No: 2006/102688/23<br>\n        VAT No: 4950250813<br>\n        Email: accounts@ngaaa.co.za<br>\n        Phone: +27 11 264 1463<br>\n        Fax2Email: +27 86 514 6518<br>\n      </div>\n    </td>\n    <td width=\"200px\">\n      <div class=\"address-header\">\n        <h4>Head Office</h4>\n      322 Cromwell Road<br>\n      Lombardy East<br>\n      Johanessburg, 2090<br>\n      <b>Contact Person</b><br>\n      Ephraim: +27 82 833 1089<br>\n      </div>\n    </td>\n    </tr>\n  </tbody>\n</table>",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": "<table class=\"footer-table\" width=\"100%\">\n    <tbody>\n    <tr>\n      <td>\n        <div class=\"address-header\">\n      <b>Banking Details</b><br>\n   Ngaatendwe Trading cc<br>\n   Fnb Business Account - Sunninghill<br>\n    Account Number: 62165262826<br>\n    Branch Code: 251650\n      </div>\n    </td>\n    <td>\n      \n    </td>\n    <td>\n      \n    </td>\n    <td>\n      \n    </td>\n    </tr>\n  </tbody>\n</table>\n<style>\n    .header-table, .footer-table {\n        font-size: 8.5pt;\n        font-family: Inter, \"Helvetica Neue\", Helvetica, Arial, \"Open Sans\", sans-serif;\n        color: #252525;\n        line-height: 1.42;\n    }\n    .header-table h4 {\n    font-size: 8.5pt;\n    margin-bottom: 1px;\n    margin-top: 0;\n}\n\n.ql-editor {\n    font-size: 8.5pt !important;\n    font-family: Inter, \"Helvetica Neue\", Helvetica, Arial, \"Open Sans\", sans-serif !important;\n    color: #252525 !important;\n    line-height: 1.42 !important;\n}\n\n</style>",
+  "image": null,
+  "is_default": 0,
+  "letter_head_name": "Ngaatendwe Letterhead",
+  "modified": "2022-07-22 15:26:31.950979",
+  "name": "Ngaatendwe Letterhead",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source": "HTML"
+ },
+ {
+  "content": "<img src=\"/files/1x1-0000ff7f.png\">",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": null,
+  "image": "/files/1x1-0000ff7f.png",
+  "is_default": 1,
+  "letter_head_name": "Blank Letterhead",
+  "modified": "2022-02-23 16:41:21.819931",
+  "name": "Blank Letterhead",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source": "Image"
+ },
+ {
+  "content": "<table class=\"header-table\" width=\"100%\">\n    <tbody><tr>\n      <td width=\"300px\">\n        <div class=\"logo\">\n<img src=\"https://erp.ngaaa.co.za/files/MUL%20logo.png\">\n        </div>\n      </td>\n      <td width=\"100px\">\n        <div class=\"address-header\">\n      <br>\n      <br>\n      </div>\n    </td>\n    <td width=\"300px\">\n      <div class=\"address-header\">\n        <h4>MUL SUPPLY &amp; PROJECTS Pty Ltd.</h4>\n        3490 Onica Mashigo Street, Alexandra Township<br>\nJohannesburg 2090, Gauteng<br>\n        <strong>REG No:</strong> 2016/447508/07<br>\n        <strong>VAT No:</strong> 4130287057<br>\n        <strong>Email:</strong> lucy@mulsupply.co.za<br>\n        <strong>Phone:</strong> +27 71 152 7506<br>\n      </div>\n    </td>\n    <td width=\"50px\">\n      <div class=\"address-header\">\n        <h4></h4>\n      \n      </div>\n    </td>\n    </tr>\n  </tbody>\n</table>",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": "<table class=\"footer-table\" width=\"100%\">\n    <tbody>\n    <tr>\n      <td>\n        <div class=\"address-header\">\n      <b>Banking Details</b><br>\n   Mul Supply &amp; Projects Pty Ltd.<br>\n   Standard Bank - Greenstone<br>\n    Account Number: 220825777<br>\n    Branch Code: 016342\n      </div>\n    </td>\n    <td>\n      \n    </td>\n    <td>\n      \n    </td>\n    <td>\n      \n    </td>\n    </tr>\n  </tbody>\n</table>\n<style>\n    .header-table, .footer-table {\n        font-size: 8.5pt;\n        font-family: Inter, \"Helvetica Neue\", Helvetica, Arial, \"Open Sans\", sans-serif;\n        color: #252525;\n        line-height: 1.42;\n    }\n    .header-table h4 {\n    font-size: 8.5pt;\n    margin-bottom: 1px;\n    margin-top: 0;\n}\n\n.ql-editor {\n    font-size: 8.5pt !important;\n    font-family: Inter, \"Helvetica Neue\", Helvetica, Arial, \"Open Sans\", sans-serif !important;\n    color: #252525 !important;\n    line-height: 1.42 !important;\n}\n\n</style>",
+  "image": null,
+  "is_default": 0,
+  "letter_head_name": "MUL Supply Letterhead",
+  "modified": "2023-02-27 13:34:09.387189",
+  "name": "MUL Supply Letterhead",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source": "HTML"
+ }
+]

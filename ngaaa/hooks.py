@@ -176,8 +176,64 @@ user_data_fields = [
 # ]
 
 fixtures = [
-        "Print Format",
-        "DocType",
-        "Property Setter",
-        "Custom Field"
+    {
+        "dt": "Custom Field",
+        "filters": [
+            ["dt", "in", [
+                "Item",
+                "Issue",
+                "Delivery Note",
+                "Purchase Order",
+                "Quotation",
+                "Sales Invoice",
+                "Sales Order",
+                "Material Request",
+                "Supplier Quotation",
+                "Purchase Receipt",
+                "Purchase Invoice",
+                "Payment Request",
+                "Request for Quotation",
+                "Task",
+                "Project",
+		"Contact",
+		"Address"
+            ]]
         ]
+    },
+    {"dt": "Property Setter"},
+    {
+        "dt": "Letter Head",
+        "filters": [
+            ["name", "in", [
+                "Blank Letterhead",
+                "Ngaatendwe Letterhead",
+                "MUL Supply Letterhead"
+            ]]
+        ]
+    },
+    {
+        "dt": "Print Format",
+        "filters": [
+            ["name", "in", [
+                "Ngaa Purchase Order",
+                "Ngaa Issue",
+                "Ngaa Quotation",
+                "Ngaa Sales Invoice",
+                "Ngaa Delivery Note",
+                "Ngaa Sales Order",
+                "Ngaa Request For Quotation",
+                "Ngaa Payment Request",
+                "Ngaa Purchase Receipt",
+                "Ngaa Purchase Invoice",
+                "Ngaa Supplier Quotation",
+                "Ngaa Material Request"
+            ]]
+        ]
+    },
+    {
+        "dt": "DocType",
+        "filters": [
+            ["name", "=", "Institution"]
+        ]
+    }
+]
