@@ -21,7 +21,7 @@
   "docstatus": 0,
   "doctype": "Letter Head",
   "footer": null,
-  "image": "/files/1x1-0000ff7f.png",
+  "image": "null",
   "is_default": 1,
   "letter_head_name": "Blank Letterhead",
   "modified": "2022-02-23 16:41:21.819931",
@@ -29,7 +29,8 @@
   "parent": null,
   "parentfield": null,
   "parenttype": null,
-  "source": "Image"
+  "source": "Image",
+  "align": "Left"
  },
  {
   "content": "<table class=\"header-table\" width=\"100%\">\n    <tbody><tr>\n      <td width=\"300px\">\n        <div class=\"logo\">\n<img src=\"https://erp.ngaaa.co.za/files/MUL%20logo.png\">\n        </div>\n      </td>\n      <td width=\"100px\">\n        <div class=\"address-header\">\n      <br>\n      <br>\n      </div>\n    </td>\n    <td width=\"300px\">\n      <div class=\"address-header\">\n        <h4>MUL SUPPLY &amp; PROJECTS Pty Ltd.</h4>\n        3490 Onica Mashigo Street, Alexandra Township<br>\nJohannesburg 2090, Gauteng<br>\n        <strong>REG No:</strong> 2016/447508/07<br>\n        <strong>VAT No:</strong> 4130287057<br>\n        <strong>Email:</strong> lucy@mulsupply.co.za<br>\n        <strong>Phone:</strong> +27 71 152 7506<br>\n      </div>\n    </td>\n    <td width=\"50px\">\n      <div class=\"address-header\">\n        <h4></h4>\n      \n      </div>\n    </td>\n    </tr>\n  </tbody>\n</table>",
